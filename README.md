@@ -22,3 +22,9 @@
 
 ### ✨ A Little About My Journey
 Learning something new every day and turning ideas into reality, one project at a time.
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
+</p>
